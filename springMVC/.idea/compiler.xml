@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring_mvc_demo" />
+        <module name="spring_mvc_extension" />
+        <module name="spring_mvc_helllo" />
+        <module name="spring_listener" />
+        <module name="spring_mvc_ajax" />
+        <module name="ssm" />
+        <module name="spring_mvc_annotation" />
+        <module name="spring_mvc_rest" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="untitled" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
